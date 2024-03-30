@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginDeviceCheck", "LoginDeviceCheck.csproj", "{7E95C023-48B2-47F1-8FAC-C7F2AAB11419}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E95C023-48B2-47F1-8FAC-C7F2AAB11419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E95C023-48B2-47F1-8FAC-C7F2AAB11419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E95C023-48B2-47F1-8FAC-C7F2AAB11419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E95C023-48B2-47F1-8FAC-C7F2AAB11419}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A20A63F-593A-48FD-ADE6-3E062201F5F4}
+	EndGlobalSection
+EndGlobal
